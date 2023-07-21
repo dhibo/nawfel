@@ -1,0 +1,71 @@
+<!-- Contact Start -->
+<div class="container-fluid page-header py-5 mb-5">
+  <div class="container py-5">
+    <h1 class="display-3 text-white mb-3 animated slideInDown">{{'navbar.contact_us' | translate}}</h1>
+    <nav aria-label="breadcrumb" class="animated slideInDown">
+      <ol class="breadcrumb">
+      </ol>
+    </nav>
+  </div>
+</div>
+<div class="container-fluid bg-light overflow-hidden px-lg-0" style="margin: 6rem 0;">
+  <div class="container contact px-lg-0">
+    <div class="row g-0 mx-lg-0">
+      <div class="col-lg-6 contact-text py-5 wow fadeIn" data-wow-delay="0.5s">
+        <div class="p-lg-5 ps-lg-0">
+          <h6 class="text-primary">{{ 'contact.title' | translate }}</h6>
+          <h1 class="mb-4">{{ 'contact.subtitle' | translate }}</h1>
+          <p class="mb-4"></p>
+          <form [formGroup]="contactform">
+            <div class="row g-3">
+              <div id="thankyou_message" *ngIf="submitted" class="thankyou_message">
+                <p class="text-primary">{{ 'contact.thankyou_message.text' | translate }}</p>
+              </div>
+              <div class="col-md-6">
+                <div class="form-floating">
+                  <input type="text" formControlName="name" class="form-control" id="name" name="name" placeholder="{{ 'contact.name' | translate }}">
+                  <label for="name">{{ 'contact.name' | translate }}</label>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="form-floating">
+                  <input type="email" formControlName="email" class="form-control" id="email" name="email" placeholder="{{ 'contact.email' | translate }}" required>
+                  <label for="email">{{ 'contact.email' | translate }}</label>
+                </div>
+              </div>
+              <div class="col-12">
+                <div class="form-floating">
+                  <input type="text" formControlName="subject" class="form-control" id="subject" name="subject" placeholder="{{ 'contact.subject' | translate }}" required>
+                  <label for="subject">{{ 'contact.subject' | translate }}</label>
+                </div>
+              </div>
+              <div class="col-12">
+                <div class="form-floating">
+                  <textarea class="form-control" formControlName="message" placeholder="{{ 'contact.message' | translate }}" name="message" id="message" style="height: 100px"></textarea>
+                  <label for="message">{{ 'contact.message' | translate }}</label>
+                </div>
+              </div>
+              <div class="col-12">
+                <button class="btn btn-primary rounded-pill py-3 px-5" type="submit" (click)="submitForm()">{{ 'contact.send_message' | translate }}</button>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+      <div class="col-lg-6 pe-lg-0" style="min-height: 400px;">
+        <div class="position-relative h-100">
+          <div class="mapouter">
+            <div class="gmap_canvas">
+              <iframe width="659" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=191%20Scout%20Street,%20Ottawa,%20Ontario&t=k&z=11&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+              <a href="https://123movies-to.org">123movies</a><br>
+              <style>.mapouter{position:relative;text-align:right;height:500px;width:659px;}</style>
+              <a href="https://www.embedgooglemap.net">how to embed google map in html</a>
+              <style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:659px;}</style>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Contact End -->

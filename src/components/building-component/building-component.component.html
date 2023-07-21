@@ -1,0 +1,44 @@
+<div class="container" >
+    <div class="text-center mx-auto mb-5 wow fadeInUp" style="margin-top:  15 px;" data-wow-delay="0.1s" style="max-width: 600px;">
+        <h1 class="mb-4" style="margin-top: 10px; text-align: center;">{{'BUILDING_HVAC_AND_PLUMBING_DESIGN' | translate}}</h1>
+    </div>
+    <b style="font-size: larger; color:black"><u><i>{{'DESIGN_EQUIPMENT_SIZING_PROJECTS' | translate}}</i></u></b>
+    <div class="row">
+      <div class="col-md-6">
+        <p>
+          <ul style="font-size: larger; color: rgb(41, 36, 36);">
+            <li>{{'CONSTRUCTION_THEATER_HOUSE_EL_MIDA' | translate}}</li>
+            <li>{{'CONSTRUCTION_CANTONAL_COURT_GROMBALIA' | translate}}</li>
+            <li>{{'CONSTRUCTION_THEATER_HOUSE_AOULED_HAFFOUZ' | translate}}</li>
+            <li>{{'CONSTRUCTION_THEATER_HOUSE_GAAFOUR' | translate}}</li>
+            <li>{{'CONSTRUCTION_CANTONAL_COURT_NEFZA' | translate}}</li>
+            <li>{{'CONSTRUCTION_CANTONAL_COURT_JELMA' | translate}}</li>
+            <li>{{'CONSTRUCTION_POLYVALENT_CENTER_GABES' | translate}}</li>
+            <li>{{'RETROFIT_EXTENSION_REGIONAL_HOSPITAL_EL_GUETTAR' | translate}}</li>
+            <li>{{'CONSTRUCTION_PEDIATRICIAN_SERVICE_OPERATING_ROOM_REGIONAL_HOSPITAL_SENAD' | translate}}</li>
+            <li>{{'CONSTRUCTION_OPERATING_ROOM_RETROFIT_REGIONAL_HOSPITAL_MDHILA' | translate}}</li>
+            <li>{{'CONSTRUCTION_DRAMA_CENTER_TOZEUR' | translate}}</li>
+            <li>{{'CONSTRUCTION_REGIONAL_SCHOOL_BOARD_OFFICE_TOZEUR' | translate}}</li>
+            <li>{{'CONSTRUCTION_YOUTH_BOARD_OFFICE_SIDI_BOUZID' | translate}}</li>
+          </ul>
+</div>
+<div class="col-md-6">
+    <div id="carouselExampleControls" class="carousel slide text-center carousel-dark" data-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item" *ngFor="let item of carouselItems; let i = index" [ngStyle]="{'display': currentSlide === i ? 'block' : 'none'}">
+            <img class="shadow-1-strong mb-4" [src]="item.imageSrc" [alt]="item.name" style="height: 500px;width: 400px;" >
+            
+        </div>
+        <button class="carousel-control-prev" type="button" data-target="#carouselExampleControls" data-slide="prev" (click)="onPreviousClick()">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-target="#carouselExampleControls" data-slide="next" (click)="onNextClick()">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
+      
+</div>
+</div>
+</div>

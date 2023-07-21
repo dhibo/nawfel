@@ -1,0 +1,325 @@
+{
+  "Projects References":" Projects References",
+  "about_us":"About us",
+  "navbar": {
+      "home": "Home",
+      "about": "About us",
+      "renewable_green_energies": "Renewable & Green Energies",
+      "solar_energy": "Solar Energy",
+      "residential": "Residential",
+      "commercial": "Commercial",
+      "industrial": "Industrial",
+      "irrigation": "Irrigation",
+      "heat_pumps_and_other_solutions": "Heat Pumps and other solutions",
+      "project_references": "Project References",
+      "heat_recovery": "Heat Recovery",
+      "pulp_paper_and_heavy_industries": "Pulp And Paper And Heavy Industries",
+      "food_and_beverage_hospitals": "Food And Beverage Hospitals",
+      "consulting_projects": "Consulting Projects",
+      "combined_cycle_power_plants": "Combined Cycle Power Plants",
+      "energy_audits_and_process_integration": "Energy Audits And Process Integration",
+      "building_hvac_and_plumbing_desgin": "Building HVAC And plumbing Desgin",
+      "energy_efficiency": "Energy Efficiency",
+      "engineering_services": "Engineering Services",
+      "product_design_and_manufacturing": "Product Design and Manufacturing",
+      "turnkey_and_epc_projects": "Turnkey and EPC Projects",
+      "contact_us": "Contact Us"
+    },
+      "header": {
+        "title": "Heat Pumps",
+        "description": "can be a good solution for heating in winter and cooling in summer with a very high efficiency factor up to 6 times."
+      },
+      "feature": {
+        "title": "Why Choose Heat Pumps!",
+        "subtitle" :"Heat Pumps and other solutions",
+        "content": "Canada’s cold climate means that space heating accounts for over 60% of the energy used in the average Canadian home. Make the switch to more energy-efficient heating equipment such as a heat pump to save energy and possibly reduce your utility bills and carbon footprint. Keep in mind that the cost of energy to operate a product over its lifetime is just as important as its purchase price.",
+        "link": "Learn more about energy-efficient heating equipment."
+      },
+      "ab": {
+        "title": "Heat Pumps",
+        "subtitle": "A heat pumpis a device that is using the energy in the environment, such as air or ground, and transfers it to be used for heating or cooling purposes. Thermal energy naturally flows from places with higher temperature to locations with lower temperatures (e.g., in the winter, heat from inside the building is lost to the outside and in the summer heat from the outside flows into the interior of the building). A heat pump uses additional electrical energy to counter the natural flow of heat, and, in heating mode, pumps the energy available from a colder place to a warmer one. Since a heat pump transfers thermal energy (vs. a gas furnace or an electrical baseboard, which convert other sources of energy to thermal energy), it offers a higher energy efficiency, potentially saving on energy costs and reducing your carbon footprint.",
+        "link": "Learn more about heat pumps"
+      },
+      
+        "airSourceHeatPump": "air-source heat pump",
+        "homesTitle": "Homes in moderate climates",
+        "homesContent": "Many homes in moderate climates can rely on air source heat pumps for heating or cooling year-round. More recently, a new generation of air-source heat pump, often called cold-climate heat pump, has been introduced to improve performance of these systems in the colder temperatures of Canadian winters. This improved performance vs. conventional air-source heat pumps reduces the need for auxiliary heating sources. Ground source heat pumps are effective in all climates",
+        "mechanicalSystemTitle": "Mechanical system",
+        "mechanicalSystemContent": "A mechanical system contractor or energy advisor can help with estimating the economics of purchasing and operating a heat pump in your area and the potential savings you can achieve. Heat pumps can come at a higher purchase cost compared to other heating systems due to the number of components in the system. In some regions and situations, this added cost can be recouped in a relatively short period through energy cost savings. However, in other regions, varying utility rates can extend this period. Speak with your energy advisor to see if a heat pump is right for you."
+      ,
+      
+    
+    
+    
+        "footer": {
+            "partner":"Tenerflow, partner of ingenious Energy Group Inc.",
+            "ADDRESS": "Address",
+            "ADDRESS_LINE_1": "191 Scout Street, Ottawa, Ontario",
+            "ADDRESS_LINE_2": "+(1) 613-716-4434",
+            "ADDRESS_LINE_3": "info@ingeniousenergy.ca",
+            "ENERGY_EFFICIENCY": "Energy Efficiency",
+            "ENGINEERING_SERVICES": "Engineering services",
+            "PRODUCT_DESIGN_AND_MANUFACTURING": "Product design and manufacturing",
+            "TURNKEY_AND_EPC_PROJECTS": "Turnkey and EPC projects",
+            "QUICK_LINKS": "Quick Links",
+            "PROJECT_REFERENCES": "Projects References",
+            "ABOUT_US": "About Us",
+            "CONTACT_US": "Contact Us",
+            "RENEWABLE_AND_GREEN_ENERGY": "Renewable and green energy",
+            "HOME": "Home",
+            "CONTACT_US_TITLE": "Contact Us",
+            "CONTACT_US_DESCRIPTION": "Don't hesitate to reach out if you have any questions.",
+            "CONTACT_US_SEND_BUTTON": "Send",
+            "COPYRIGHT": "&copy; Copyright Ingenious Energy Group Inc."
+          }
+          ,"about":{
+            "1": "Why we are different?",
+            "2": "(IEGI) is proposing a unique approach supported by the following reasons",
+            "3": "Experience",
+            "4": "We are different from consulting firms because our experience and expertise is based on experience from full turnkey project solution. We start from an early stage of the feasibility study and then conducting a full process and utilities analysis and assessment. IEGI works closely with clients on the data collection by taking measurements for the actual situation and compare it with the design or reference values to make sure that the savings will be reflecting the actual conditions. IEGI will stand behind the forecasted values and will help clients to achieve them.",
+            "5": "Our Solutions",
+            "6": "Our solutions reflect more the actual operating conditions and offers more liability for both the client and our company.",
+            "7": "Optimal",
+            "8": "Our strength will lead to the optimal solution by doing a detailed and finer tuning around the existing processes and finding the hidden opportunities. The optimization projects will usually cover the last 10 to 20% of the efficiency of the existing energy systems (Boilers or energy producers). A 2% difference in the forecasted savings from this portion represents 10% of the overall savings between two different solutions. This can result in hundreds of thousands of dollars each year for big projects.",
+            "9": "Our Mission",
+            "10": "Our mission is to help our clients and especially big energy consumers to reduce their energy consumption and optimize their processes. Our team will be working closely with clients to deeply understand their needs and requirements to find the most cost effective solutions without affecting their existing operational conditions. Our goal is to satisfy our clients and help them meet their targets for greenhouse gas emission and reduce production costs.",
+            "11":"Our goal is to satisfy our clients and help them meet their targets for greenhouse gas emission and reduce production costs."
+
+            ,"12": "Our main strengths are",
+
+            "13": "Reliability",
+
+            "14": "Our solutions reflect more the actual operating conditions and offers more liability for both the client and our company.",
+            "15": "Customization",
+            "16": "Our strength will lead to the optimal solution by doing a detailed and finer tuning around the existing processes and finding the hidden opportunities. The optimization projects will usually cover the last 10 to 20% of the efficiency of the existing energy systems (Boilers or energy producers).",
+            "17": "Competence",
+            "18": "Our strength will lead to the optimal solution by doing a detailed and finer tuning around the existing processes and finding the hidden opportunities."
+          },
+          "contact":{
+              "title": "Contact Us",
+              "subtitle": "Feel Free To Contact Us",
+              "name": "Your Name",
+              "email": "Your Email",
+              "subject": "Subject",
+              "message": "Message",
+              "send_message": "Send Message",
+              "thankyou_message": {
+                "text": "Thanks for contacting us! We will get back to you soon!"
+              }
+            },
+                "PHILOSOPHY_TITLE": "Our Philosphy !",
+                "PHILOSOPHY_MAIN_ASSETS": "Quality & Professionalism are our main assets",
+                "PHILOSOPHY_MAIN_ASSETS_DESCRIPTION": "At Ingenious Energy Group Inc, quality and professionalism are our main assets. We always try to give the most valuable advices and guidance to our clients and work sincerely to build good relationship with clients and suppliers to lead to a win-win situation.",
+                "QUALITY_SERVICES": "Quality Services",
+                "SERVICES":"services",
+                "EXPERT": "Expert",
+                "ENGINEERS":"engineers",
+                "VALUABLE": "Valuable",
+                "ADVICES":"advices",
+                "CUSTOMER": "Customer",
+                "SUPPORT":"support",
+
+                
+                    "ABOUT_US": {
+                      "TITLE": "About Us",
+                      "SUB_TITLE": "Who We Are?",
+                      "DESCRIPTION": "<b>Ingenious Energy Group Inc (IEGI)</b> is an engineering services corporation specialized in business development, feasibility studies, and Engineering Procurement and Construction (EPC) projects in the field of energy efficiency, heat recovery and greenhouse gas emissions reduction projects, HVAC-R (Heating, Ventilation and Air Conditioning – and Refrigeration), waste-to-energy, and renewable energies. IEGI will focus in helping our clients to reduce their energy consumption and optimize their processes to reach their GHG emission targets. IEGI is proposing a unique approach by working closely with the clients to conduct more finite and detailed feasibility study for the processes and existing systems to ensure the most cost effective solution and guaranteeing the highest savings.",
+                      "WATCH_NOW": "Watch Now!"
+                    }
+                
+                    ,
+                        "headerTitle": "Heat Pumps",
+                        "headerSubtitle": "can be a good solution for heating in winter and cooling in summer with a very high efficiency factor up to 6 times.",
+                        "whyChooseTitle": "Why Choose Heat Pumps!",
+                        "whyChooseSubtitle": "Heat Pumps and other solutions",
+                        "whyChooseDescription": "Canada’s cold climate means that space heating accounts for over 60% of the energy used in the average Canadian home. Make the switch to more energy-efficient heating equipment such as a heat pump to save energy and possibly reduce your utility bills and carbon footprint. Keep in mind that the cost of energy to operate a product over its lifetime is just as important as its purchase price.",
+                        "whyChooseLink": "Learn more about energy-efficient heating equipment.",
+                        "aboutTitle": "Heat Pumps",
+                        "aboutDescription": "A heat pump is a device that is using the energy in the environment, such as air or ground, and transfers it to be used for heating or cooling purposes. Thermal energy naturally flows from places with higher temperature to locations with lower temperatures (e.g., in the winter, heat from inside the building is lost to the outside and in the summer heat from the outside flows into the interior of the building). A heat pump uses additional electrical energy to counter the natural flow of heat, and, in heating mode, pumps the energy available from a colder place to a warmer one. Since a heat pump transfers thermal energy (vs. a gas furnace or an electrical baseboard, which convert other sources of energy to thermal energy), it offers a higher energy efficiency, potentially saving on energy costs and reducing your carbon footprint. Learn more about heat pumps",
+                        "aboutLink": "https://www.nrcan.gc.ca/energy-efficiency/energy-star-canada/about/energy-star-announcements/publications/heating-and-cooling-heat-pump/6817",
+                        "airSourceTitle": "air-source heat pump",
+        "engineers": {
+          "services": "Our Services",
+          "offer": "We can offer the following engineering services",
+          "service1": {
+            "title": "heat recovery, energy consumption monitoring and optimization",
+            "description": "There’s a lot of waste heat to the environment from industrial processes, boilers exhausts, chillers and dryers. This energy can be recovered and reused in the process or space heating. Energy consumption monitoring and optimization can save up to 15% in some cases.",
+            "readMore": "Read More"
+          },
+          "service2": {
+            "title": "Process integration and pinch analysis",
+            "description": "Process integration is a comprehensive and systematic approach that analyzes the energy use of a plant or process as a whole, rather than solely considering each equipment item or energy system independently. This method can be used to determine a plant’s best energy efficiency strategies and to reduce energy costs, greenhouse gas emissions and water consumption.",
+            "readMore": "Read More"
+          },
+          "service3": {
+            "title": "Energy Audits and business development",
+            "description": "Conducting an energy audit will not only get you started on your energy management program, it will also reveal your organization’s potential for significant savings. An audit ",
+            "1":"determines where, when, why and how energy is being used.",
+            "2":"It gives you information you can use to improve efficiency, and reduce your energy costs and greenhouse gas emissions",
+            "3":"It can verify the effectiveness of the energy-efficiency projects you implement.",
+            "readMore": "Read More"
+          },
+          "service4": {
+            "title": "Renewable Energies",
+            "description": "Renewable energy is energy derived from natural processes that are replenished at a rate that is equal to or faster than the rate at which they are consumed. There are various forms of renewable energy, deriving directly or indirectly from the sun, or from heat generated deep within the earth. They include energy generated from solar, wind, geothermal, hydropower and ocean resources, solid biomass, biogas and liquid biofuels. Biomass, however, is a renewable resource only if its rate of consumption does not exceed its rate of regeneration.",
+            "readMore": "Read More"
+          },
+          "service5": {
+            "title": "HVAC-R and plumbing design",
+            "description": "Our team has the experience and expertise to design and size HVAC-R and plumbing systems for different types of buildings. This includes energy modelling for seasonal consumption and peak conditions. With experience in full turnkey projects, we can offer project engineering and management at different stages of the project: detailed engineering, implementation and commissioning.",
+            "readMore": "Read More"
+          }
+        },
+          "productt":{
+            "ingeniousEnergyGroup": "Ingenious Energy Group Inc",
+            "designingProducts": "Can help designing a wide range of products including",
+            "airHandlers": "Air handlers",
+            "terminalUnits": "Terminal units",
+            "heatPumps": "Heat pumps",
+            "airCooled": "Air cooled condenser, air cooled chiller",
+            "plateAndFrameHeatExchangers": "Plate and frame heat exchangers",
+            "dampersAndLouvers": "Dampers and louvers",
+            "heatRecoverySystems": "Heat recovery systems",
+            "externalAndSubmergedCoils": "External and submerged coils"
+          },
+          "tunkey":{
+            "featurestitle": "Ingenious Energy Group Inc.",
+            "featuresSubtitle": "can offer turnkey and EPC (Engineering, Procurement and Construction) services in different fields such as:",
+            "energyEfficiencyTitle": "Energy Efficiency and renewable energy projects",
+            "energyEfficiencyDescription": "Energy Efficiency and renewable energy projects",
+            "foodProcessingTitle": "Food processing",
+            "foodProcessingDescription": "Food processing, slaughterhouses, and HVAC and plumbing for commercial, residential, institutional, and healthcare.",
+            "servicesDescription": "These services include preliminary study, detailed engineering design, project management, commissioning and startup."
+          },
+          
+          "solorenergy":{
+            "Solar Pumping": "Solar Pumping",
+            "Solar pumping is a good application for farmers and country residential or commercial houses.": "Solar pumping is a good application for farmers and country residential or commercial houses.",
+            "Solar Systems for Residential": "Solar Systems for Residential",
+            "On grid residential solar systems has a rebate from Ontario governments up to $5600.": "On grid residential solar systems has a rebate from Ontario governments up to $5600.",
+            "Solar Systems for Commercial": "Solar Systems for Commercial",
+            "Solar systems can be the best cost effective solution for applications where commercial buildings are consuming a lot of electricity.": "Solar systems can be the best cost-effective solution for applications where commercial buildings are consuming a lot of electricity.",
+            "Renewable Energy": "Renewable Energy",
+            "Solar Energy":"Solar Energy",
+            "a": "Renewable energy is energy derived from natural processes that are replenished at a rate that is equal to or faster than the rate at which it is consumed. The Canada Greener Homes Grant Initiative offers a grant for installing a solar photovoltaic (PV) system (including panels and an inverter) that converts sunlight directly into electricity. If you want to purchase batteries for storing the solar energy from your PV system, a portion of the cost may be eligible for a grant under the climate resiliency grants. Learn more about solar panels for homes.",
+            "Learn More": "Learn More",
+            "Eligibility criteria for a grant:": "Eligibility criteria for a grant:",
+            "Online purchases are only eligible if they are ordered from a distributor located in Canada.": "Online purchases are only eligible if they are ordered from a distributor located in Canada.",
+            "The system must be comprised of one or more PV panels and inverter(s) (if required) certified to CSA Standards.": "The system must be comprised of one or more PV panels and inverter(s) (if required) certified to CSA Standards.",
+            "The total system peak power capacity must be equal to or greater than 1.0 kW DC.": "The total system peak power capacity must be equal to or greater than 1.0 kW DC.",
+            "For a grid connected* system, a copy of the letter of approval or permission for interconnection issued by the local electrical or building authority is required.": "For a grid-connected system, a copy of the letter of approval or permission for interconnection issued by the local electrical or building authority is required.",
+            "CSA Standards": "CSA Standards"
+          }
+          ,"Welcome":"Welcome to Ingenious Energy Group Inc.",
+          "expert":"Expert in Energy Efficiency, Greenhouse Gas Emissions Reduction and Renewable Energies"
+          ,"sectors":{
+            "sectorActivities": "Sector of Activities",
+            "ingeniousEnergyGroup": "Ingenious Energy Group Inc. is an engineering and services provider offering services for different sectors including but not limited to:",
+            "industrialSector": "Industrial Sector",
+            "industrialSectorDescription": "including pulp and paper, food and beverage, heavy manufacturing, cement making, brick's making",
+            "commercial": "Commercial",
+            "commercialDescription": "such as malls, markets, tribunals, theaters.",
+            "institutional": "Institutional",
+            "institutionalDescription": "such as schools, universities, specialty schools.",
+            "healthcare": "Healthcare",
+            "healthcareDescription": "such as hospitals, clinics, pharmacies.",
+            "solarAndGreenEnergies": "Solar and green energies",
+            "solarAndGreenEnergiesDescription": "systems for residential and commercial buildings."
+          },"product":{
+            "title":"Projects",
+            "subtitle":"Add New Project",
+            "name":"Project Name",
+            "message":"Project Description",
+            "send_message":"Add"
+          },"projects":{
+            "title":"HEAT RECOVERY AND ENERGY EFFICIENCY",
+            "consulting":"CONSULTING PROJECTS",
+            "Our":"Our Projets",
+            "conception":"CONCEPTION CVC ET PLOMBERIE DU BÂTIMENT",
+            "subtitle":" Design, equipment sizing, and start-up of diverse projects: ",  
+            "p1":{
+              "title":"Project-01: Pulp and Paper Mill (QC) – 2018/2021",
+              "description":"Engineering member and expert from Ingenious Energy Group Inc. acted as the lead of the technical team and project manager for the full turnkey project from the feasibility study stage to the detailed engineering and project implementation until commissioning and startup. The project consisted of recovering heat from a Yankee dryer exhaust to produce hot water to preheat air space makeup to the mill and process water resulting in an annual fuel savings of over five hundreds thousand (500k) and in a remarkable greenhouse gas emission reduction for the client."
+
+            },
+            "p2":{
+              "title":"Project-02: Dairy and food processing (Ireland) – 2018/2021",
+              "description":"Engineering member and expert from Ingenious Energy Group Inc. acted as the senior reviewer during the full turnkey process for the feasibility study and EPC stages. The project consisted of recovering heat from a natural boiler gas and dryer exhausts to produce hot water to preheat air space makeup to the mill and process water resulting in an annual fuel savings of over size hundreds thousand (650k) and in a remarkable greenhouse gas emission reduction for the client."
+            },
+            "p3":{
+              "title":"Project-03: Pulp and Paper Mill (ON) – 2017/2019 ",
+              "description":"Engineering member and expert from Ingenious Energy Group Inc. acted as the lead of the technical team during the full turnkey process for the feasibility study and EPC stages. The project consisted of recovering heat from pulp machine dryers and recovery boiler Exhaust to produce hot water to preheat air space makeup to the mill boiler makeup and other applications in the mill  process water resulting in an annual fuel savings of over three (3) Canadian dollars millions and in a remarkable greenhouse gas emission reduction for the client. "
+            },
+            "p4":{
+              "title":"Project-04: Yeast Manufacturer (Italy) -2016/2017",
+              "description":"Engineering member and expert from Ingenious Energy Group Inc. as the lead of the technical team during the full turnkey process for the EPC project. The project consisted of recovering heat from the exhaust of a natural gas turbine downstream of a HRSG to produce hot water to preheat boiler makeup water and process hot water resulting in an annual fuel savings of over five hundreds thousands (500k) Canadian dollars and in a remarkable greenhouse gas emission reduction for the client. "
+            },
+            "p5":{
+              "title":"Project-05: Tissue Machine Mill (QC) -2013/2015 ",
+              "description":"Engineering member and expert from Ingenious Energy Group Inc. acted as the support engineer for the technical lead project engineer during the full turnkey process for the feasibility study and EPC stages for the first phase of the project and as the technical lead for the project expansion. The project consisted of recovering heat from tissue machine Yankee dryer to produce hot water to preheat air space makeup to the mill, boiler water makeup and process water resulting in an annual fuel savings of over five hundreds thousands Canadian dollars and in a remarkable greenhouse gas emission reduction for the client."
+            },
+            "p6":{
+              "title":"Project-06: Pulp and Paper Mill (QC) – 2011/2012",
+              "description":"Engineering member and expert from Ingenious Energy Group Inc. acted as the support engineer for the technical lead project engineer during the full turnkey process for the feasibility study and EPC stages. The project consisted of recovering heat from tissue machine Yankee dryer to produce hot water to preheat air space makeup to the mill, boiler water makeup and process water resulting in an annual fuel savings of over one Canadian million dollar and in a remarkable greenhouse gas emission reduction for the client."
+            },
+            "cp1":{
+              "title":" Project-01: Energy Audit - Converting Mill, Ontario, Canada ",
+              "description":"Conducted an energy audit for a converting cardboard mill in Ontario to help define existing energy consumption map and finding opportunities for fuel and electricity savings. "
+            },
+            "cp2":{
+              "title":"Project-02: Project Engineering Consulting – ESAP CLIFF CHP Project, Ontario, Canada ",
+              "description":"Acting as senior project engineer for general contractor for the construction phase for the ESAP CLIFF CHP project. Helping in the procurement phase, equipment shop drawings review, design review, equipment selection, technical coordination and review of HVAC, plumbing, and all mechanical related design. "
+            },
+            "cp3":{
+              "title":"Project-03: Tunisia ",
+              "description":"Helped Quadra Solar/Power to do feasibility studies and prepare the bid for turnkey projects of cogeneration and trigeneration for multiple clients in Tunisia including Medical clinics, pharmaceutical companies, automotive industries. These projects are of a value of one (1) to three (3) million CAD and annual savings are from $250,000 to $500,000. "
+            },
+            "cp4":{
+              "title":"Project-04: Study for Chain Value of Solar Energy for the six governorates of Tunisia South – PNUD (United Nations Development Program), Tunisia ",
+              "description":"Conducted a study for chain value of solar energy for the six governorates of Tunisia South (Medenine, Gabes, Tataouine, Kebili, Gafsa and ozeur) as a consulting for Sigma Ingénierie under United Nations Development Program to investigate the reasons for high unemployment rates in this region and propose actions and recommendations to increase opportunities for especially youth and women. "
+            }
+            
+
+          },
+          "BUILDING_HVAC_AND_PLUMBING_DESIGN":"BUILDING HVAC AND PLUMBING DESIGN",
+          "DESIGN_EQUIPMENT_SIZING_PROJECTS":"Design, equipment sizing, and start-up of diverse projects: ",
+          "CONSTRUCTION_THEATER_HOUSE_EL_MIDA": "Construction of theater house in El Mida, Nabeul, Tunisia.",
+          "CONSTRUCTION_CANTONAL_COURT_GROMBALIA": "Construction of cantonal court in Grombalia, Nabeul, Tunisia.",
+          "CONSTRUCTION_THEATER_HOUSE_AOULED_HAFFOUZ": "Construction of theater house in Aouled Haffouz, Sidi Bouzid, Tunisia.",
+          "CONSTRUCTION_THEATER_HOUSE_GAAFOUR": "Construction of theater house in Gaafour, Siliana, Tunisia.",
+          "CONSTRUCTION_CANTONAL_COURT_NEFZA": "Construction of cantonal court in Nefza, Beja, Tunisia.",
+          "CONSTRUCTION_CANTONAL_COURT_JELMA": "Construction of cantonal court in Jelma, Sidi Bouzid, Tunisia.",
+          "CONSTRUCTION_POLYVALENT_CENTER_GABES": "Construction polyvalent center in Gabes, Tunisia.",
+          "RETROFIT_EXTENSION_REGIONAL_HOSPITAL_EL_GUETTAR": "Retrofit and extension of regional hospital in El Guettar, Gafsa, Tunisia.",
+          "CONSTRUCTION_PEDIATRICIAN_SERVICE_OPERATING_ROOM_REGIONAL_HOSPITAL_SENAD": "Construction of pediatrician service and operating room for regional hospital in Senad, Gafsa, Tunisia.",
+          "CONSTRUCTION_OPERATING_ROOM_RETROFIT_REGIONAL_HOSPITAL_MDHILA": "Construction of operating room and retrofit of regional hospital in M'dhila, Gafsa, Tunisia.",
+          "CONSTRUCTION_DRAMA_CENTER_TOZEUR": "Construction of drama center in Tozeur, Tunisia.",
+          "CONSTRUCTION_REGIONAL_SCHOOL_BOARD_OFFICE_TOZEUR": "Construction of regional school board office in Tozeur, Tunisia.",
+          "CONSTRUCTION_YOUTH_BOARD_OFFICE_SIDI_BOUZID": "Construction of youth board office in Sidi Bouzid, Tunisia."
+          ,"partners":{
+            "title":"Our Partners",
+            "subtitle":"IEGI is proud to work in partnership with valuable local and international companies!"  
+            ,"p1":{
+              "description":"ENAQ is an Engineering service provider located in Canada. They offer high quality and cost-effective solutions for clients in multiple areas such as Energy, Industrial, and Transport. They provide services for various project phases, including site selection, evaluation, Front-End-Engineering Design (FEED), operation optimization, and more. "
+            },"p2":{"description":"Ingenium Energy Group is an engineering service company specializing in renewable energies, energy conversion, cogeneration/trigeneration, and HVAC. Their commitment is to provide clients with the best solutions to reduce energy costs, increase efficiency, and optimize processes. "}
+              ,"p3":{"description":"TEnerFlow is specialized in the maintenance and spare parts supply for rotating equipment in the oil and gas and power generation industries. "}
+          }
+          
+          
+        }
+        
+                      
+                      
+                      
+                
+                  
+                  
+              
+              
+              
+          
+          
+      
+      
+
+  

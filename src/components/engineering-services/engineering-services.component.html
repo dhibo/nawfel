@@ -1,0 +1,100 @@
+<!-- Service Start -->
+<div class="container-xxl py-5">
+    <div class="container">
+        <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
+            <h6 class="text-primary">{{ 'engineers.services' | translate }}</h6>
+            <h1 class="mb-4">{{ 'engineers.offer' | translate }}</h1>
+        </div>
+        <div class="row g-4">
+            <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="service-item rounded overflow-hidden">
+                    <img width="500" height="300" src="./assets/img/1.jpg" alt="">
+                    <div class="position-relative p-4 pt-0">
+                        <div class="service-icon">
+                            <i class=" fa-solid fa-1 fa-3x"></i>
+                        </div>
+                        <h4 class="mb-3">{{ 'engineers.service1.title' | translate }}</h4>
+                        <p>{{ 'engineers.service1.description' | translate }}</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
+                <div class="service-item rounded overflow-hidden">
+                    <img width="500" height="300" src="./assets/img/2.jpg" alt="">
+                    <div class="position-relative p-4 pt-0">
+                        <div class="service-icon">
+                            <i class=" fa-solid fa-2 fa-3x"></i>
+                        </div>
+                        <h4 class="mb-3">{{ 'engineers.service2.title' | translate }}</h4>
+                        <p>{{ 'engineers.service2.description' | translate }}</p>
+                        <a class="small fw-medium" [href]="getlanguage() === 'fr' ? 'https://ressources-naturelles.canada.ca/efficacite-energetique/donnees-recherche-connaissance-lefficacite-energetique/innovation-secteurs-commercial-industriel/integration-des-procedes-et-analyse-pinch/integration-des-procedes-et-analyse?fbclid=IwAR1u89kBNRtjVSRls1ckFrY7faGXw-BqA1Z4hNzyU8GUn5ckKd1PVvDiOYU' : 'https://www.nrcan.gc.ca/energy-efficiency/data-research-insights-energy-efficiency/commercial-industrial-innovation/industrial-systems-optimization/process-integration-and-pinch-analysis/5497'">{{ 'engineers.service2.readMore' | translate }}<i class="fa fa-arrow-right ms-2"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
+                <div class="service-item rounded overflow-hidden">
+                    <img width="500" height="300" src="./assets/img/3.jpg" alt="">
+                    <div class="position-relative p-4 pt-0">
+                        <div class="service-icon">
+                            <i class=" fa-solid fa-3 fa-3x"></i>
+                        </div>
+                        <h4 class="mb-3">{{ 'engineers.service3.title' | translate }}</h4>
+                        <p>{{ 'engineers.service3.description' | translate }}
+                            
+                        </p>
+                        <ul style="font-size: larger; color: black;" >
+                            <li>
+                                    {{'engineers.service3.1' | translate}}
+                            </li>
+                            <li>
+                                    {{'engineers.service3.2' | translate}}
+                            </li>
+                            <li>
+                                    {{'engineers.service3.3' | translate}}
+                            </li>
+                        </ul>
+                        <a class="small fw-medium"
+                        [href]="getlanguage() === 'fr' ? 'https://ressources-naturelles.canada.ca/nos-ressources-naturelles/sources-denergie-reseau-de-distr/lenergie-renouvelable/propos-lenergie-renouvelable/7296?fbclid=IwAR0-8HQ3eXTIbV5rCHm_JcZi4dKnPlIBLfYrHyfUbayUhTysoW95dUV-e-o' : 'https://www.nrcan.gc.ca/energy/efficiency/energy-efficiency-industry/energy-management-industry/conducting-energy-audit/20401?fbclid=IwAR0nMs2I0SgR6JRmyK43PxnWB96-DclM99oaOJnxpW4GlqRnP-OZd5YC4U4'"
+                      >
+                        {{ 'engineers.service3.readMore' | translate }}
+                        <i class="fa fa-arrow-right ms-2"></i>
+                      </a>
+                                          </div>
+                </div>
+
+                </div>
+                <div class="row g-4 justify-content-center">
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item rounded overflow-hidden">
+                        <img width="500"   height="300" src="./assets/img/4.jpg" alt="">
+                        <div class="position-relative p-4 pt-0">
+                            <div class="service-icon">
+                                <i class=" fa-solid fa-4 fa-3x" ></i>
+                            </div>
+                            <h4 class="mb-3">{{ 'engineers.service4.title' | translate }} </h4>
+                            <p>{{ 'engineers.service4.description' | translate }}
+                            </p>
+                            <a class="small fw-medium" href="https://www.nrcan.gc.ca/our-natural-resources/energy-sources-distribution/renewable-energy/about-renewable-energy/7295?fbclid=IwAR2QeMYrEtmF6-DxzCkrRxzAWq0d8bQGXfxk1q1wQGmhJ7z4R6z0HRPbjDQ">{{ 'engineers.service4.readMore' | translate}} <i class="fa fa-arrow-right ms-2"></i></a>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="service-item rounded overflow-hidden">
+                        <img width="500" class="img-fluid"  height="300" src="./assets/img/5.jpg" alt="">
+                        <div class="position-relative p-4 pt-0">
+                            <div class="service-icon">
+                                <i class=" fa-solid fa-5 fa-3x" ></i>
+                            </div>
+                            <h4 class="mb-3">{{ 'engineers.service5.title' | translate }}</h4>
+                            <p>{{ 'engineers.service5.description' | translate }}</p>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+        </div>
+    </div>
+    <!-- Service End -->
+

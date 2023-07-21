@@ -1,0 +1,312 @@
+{
+  "Projects References":"Projets de références",
+  "about_us":"À propos de nous",
+  "navbar": {
+      "home": "Accueil",
+      "about": "À propos de nous",
+      "renewable_green_energies": "énergies renouvelables et vertes",
+      "solar_energy": "Énergie Solaire",
+      "residential": "Résidentiel",
+      "commercial": "Commercial",
+      "industrial": "Industriel",
+      "irrigation": "Irrigation",
+      "heat_pumps_and_other_solutions": "Pompes à chaleur et autres solutions",
+      "project_references": "Projets de références",
+      "heat_recovery": "Récupération de Chaleur",
+      "pulp_paper_and_heavy_industries": "Pâte à Papier et Industries Lourdes",
+      "food_and_beverage_hospitals": "Alimentation et Boissons Hôpitaux",
+      "consulting_projects": "Projets de Consulting",
+      "combined_cycle_power_plants": "Centrales à Cycle Combiné",
+      "energy_audits_and_process_integration": "Audits Énergétiques et Intégration des Processus",
+      "building_hvac_and_plumbing_desgin": "Conception de CVC et de Plomberie de Bâtiments",
+      "energy_efficiency": "Efficacité énergétique",
+      "engineering_services": "Services d'ingénierie",
+      "product_design_and_manufacturing": "Conception et Fabrication de Produits",
+      "turnkey_and_epc_projects": "Projets Clé en Main et EPC",
+      "contact_us": "Contactez nous"
+    },
+    "footer":{
+        "partner":"Tenerflow, partenaire d'ingenious Energy Group Inc.",
+        "ADDRESS": "Adresse",
+        "ADDRESS_LINE_1": "191 Scout Street, Ottawa, Ontario",
+        "ADDRESS_LINE_2": "+(1) 613-716-4434",
+        "ADDRESS_LINE_3": "info@ingeniousenergy.ca",
+        "ENERGY_EFFICIENCY": "Efficacité énergétique",
+        "ENGINEERING_SERVICES": "Services d'ingénierie",
+        "PRODUCT_DESIGN_AND_MANUFACTURING": "Conception et fabrication de produits",
+        "TURNKEY_AND_EPC_PROJECTS": "Projets clé en main et epc",
+        "QUICK_LINKS": "Liens rapides",
+        "PROJECT_REFERENCES": "Projets de références",
+        "ABOUT_US": "À propos",
+        "CONTACT_US": "Nous contacter",
+        "RENEWABLE_AND_GREEN_ENERGY": "Énergie renouvelable et verte",
+        "HOME": "Accueil",
+        "CONTACT_US_TITLE": "Nous contacter",
+        "CONTACT_US_DESCRIPTION": "N'hésitez pas à nous contacter si vous avez des questions.",
+        "CONTACT_US_SEND_BUTTON": "Envoyer",
+        "COPYRIGHT": "&copy; Copyright Ingenious Energy Group Inc."
+      }
+     ,"contact":
+     {
+        "title": "Nous contacter",
+        "subtitle": "N'hésitez pas à nous contacter",
+        "name": "Votre nom",
+        "email": "Votre adresse e-mail",
+        "subject": "Sujet",
+        "message": "Message",
+        "send_message": "Envoyer le message",
+        "thankyou_message": {
+        "text": "Merci de nous contacter ! Nous vous répondrons sous peu."
+        }
+        },
+        "about":{
+            "1": "POURQUOI ON EST DIFFÉRENT?",
+            "2": "(IEGI) propose une approche unique supportée par les raisons suivantes:",
+            "3": "Expérience et expertise solides",
+            "4": "Nous sommes différents des firmes de conseil et des bureaux d’études parce que notre expérience est principalement basée sur la réalisation des projets clés en mains. On commence à être impliqué dans la procédure de développement des projets ou des solutions dès le début jusqu’au la mise en service et mise en marche. Notre étendue de travaux commence par la collecte des données, analyse des données, étude et solutions préliminaires, étude approfondie, solutions plus complète, réalisation des projets et mise en service. IEGI peut garantir avec confiance les économies estimées",
+            "5": "Solutions sûres et réalistes",
+            "6": "Nos solutions prennent en considération les conditions opérationnelles actuelles et offrent plus de sûreté et garanties pour le client et notre société. ",
+            "7": "Solutions optimales",
+            "8": "Nos forces permettent d’aboutir aux solutions optimales en faisant une analyse et étude approfondie des procédés existants et en cherchant les opportunités difficiles et complexes. Les projets d’optimisation couvrent normalement les dernières 10 a 20% de l’efficacité de la centrale thermique ou des systèmes existants (chaudières, turbines, etc). Une différence de 2% dans les résultats d’efficacité globale représente alors environ 10% des économies à couvrir. Ceci peut représenter des centaines de milliers de dollars par année pour les grands consommateurs d’énergie.",
+            "9": "Notre mission",
+            "10": "Notre mission est d’aider nos clients et surtout les grands consommateurs d’énergie à réduire leur consommation d’énergie et optimiser leurs procédés. Notre équipe travaille ensemble avec les clients pour comprendre en détails et définir la situation actuelle et les besoins futurs de fonctionnement de l’usine et proposer la solution la plus rentable sans modifications des conditions opérationnelles.",
+            "11":"Notre but est de satisfaire nos clients et les aider à atteindre leurs objectifs des GES et réduire les coûts de production."
+            ,"12": "Nos principaux ",
+
+            "13": "Notre équipe",
+    
+            "14": "On est certifié au Québec (Ingénieur) et l’Ontario (P. Eng et certificat d’autorisation) avec une expérience diversifiée au nord Amérique, Europe et en nord Afrique.",
+            "15":"Bonne relation professionnelle",
+            "16": "On a une bonne relation avec des fournisseurs et des clients nationaux et internationaux pour supporter notre design et garder la bonne qualité des produits et des systèmes offerts.",
+            "17": "Étude approfondie",
+            "18": "Une expérience solide et orientée détail en récupération de la chaleur, fluide des dynamiques, bonne compréhension des systèmes de vapeur, chauffage et climatisation et CVC-R."
+    },
+    
+        "PHILOSOPHY_TITLE": "Notre philosophie !",
+        "PHILOSOPHY_MAIN_ASSETS": "Qualité & Professionnalisme sont nos principaux atouts",
+        "PHILOSOPHY_MAIN_ASSETS_DESCRIPTION": "Chez Ingenious Energy Group, la qualité et le professionnalisme sont les atouts principaux. On essaye toujours de donner les meilleures stratégies et solutions à nos clients et travaille sincèrement avec les clients pour élaborer une relation professionnelle avec eux et avec les fournisseurs pour une situation gagnant-gagnant.",
+        "SERVICES": "Services",
+        "EXPERT": "Expert",
+        "ENGINEERS": "ingénieurs",
+        "VALUABLE": "précieux",
+        "ADVICES": "Conseils",
+        "CUSTOMER": "Client",
+        "SUPPORT": "Support"
+        
+    ,
+        "ABOUT_US": {
+        "TITLE": "À propos de nous",
+        "SUB_TITLE": "Qui nous sommes?",
+        "DESCRIPTION": "Ingenious Energy Group Inc (IEGI) est une société de services d’ingénierie spécialisée en développement des affaires, études de faisabilité et des projets clés en mains (Ingénierie/ étude technique, achats et construction) dans le domaine d’efficacité énergétique, de récupération de la chaleur et des projets de réduction des émissions des gaz à effets de serre, CVAC-R  et des énergies renouvelables. IEGI a pour but d’aider les clients à réduire la consommation d’énergie et optimisation des procédés énergétiques pour réaliser leurs objectifs d’émission des GES. IEGI propose une approche unique en travaillant ensemble avec les clients et réalisant des études de faisabilité approfondies des procédés et des systèmes énergétiques existants pour aboutir à des solutions les plus économiques",
+        "WATCH_NOW": "Regarder maintenant !"
+        },
+        
+          "header": {
+              "title": "Pompes à chaleur",
+              "description": "peut être une bonne solution pour le chauffage en hiver et le refroidissement en été avec un facteur d'efficacité COP très élevé jusqu'à 6 fois."
+          },
+          "feature": {
+              "title": "Pourquoi choisir des pompes à chaleur !",
+              "subtitle" :"Pompes à chaleur et autres solutions",
+              "content": "peut être une bonne solution pour le chauffage en hiver et le refroidissement en été avec un facteur d'efficacité COP très élevé jusqu'à 6 fois.chauffage plus économique en énergie, comme une pompe à chaleur, pour économiser de l'énergie et éventuellement réduire les factures de services publics et votre empreinte carbone. Gardez à l'esprit que le coût de l'énergie nécessaire au fonctionnement d'un produit tout au long de sa durée de vie est tout aussi important que son prix d'achat.",
+              "link": "En savoir plus sur les équipements de chauffage éconergétiques."
+          },
+          "ab": {
+              "title": "Pompes à chaleur",
+              "subtitle": "Une pompe à chaleur ou thermopompe est un appareil qui utilise l'énergie de l'environnement, comme l'air ou le sol ou l’eau, et la transfère pour qu'elle soit utilisée à des fins de chauffage ou de refroidissement. L'énergie thermique circule naturellement des endroits où la température est plus élevée vers des endroits où la température est plus basse (par exemple, en hiver, la chaleur de l'intérieur du bâtiment est perdue vers l'extérieur et en été, la chaleur de l'extérieur s'écoule vers l'intérieur du bâtiment). Une pompe à chaleur utilise de l'énergie électrique supplémentaire pour contrer le flux naturel de chaleur et, en mode chauffage, circule l'énergie disponible d'un endroit plus froid vers un endroit plus chaud. Puisqu'une thermopompe transfère de l'énergie thermique (vs. une chaudière à gaz ou un radiateur électrique, qui convertissent d'autres sources d'énergie en énergie thermique), elle offre une plus grande efficacité énergétique, ce qui permet potentiellement d'économiser les coûts énergétiques et de réduire votre empreinte carbone.",
+              "link": "En savoir plus sur les pompes à chaleur"
+          },
+          "airSourceHeatPump": "pompe à chaleur air-air",
+          "homesTitle": "Maisons dans des climats modérés",
+          "homesContent": "De nombreuses maisons situées dans des climats modérés peuvent compter sur des thermopompes à air pour le chauffage ou la climatisation toute l'année. Plus récemment, une nouvelle génération de thermopompes à air, souvent appelées thermopompes pour climat froid, a été introduite pour améliorer les performances de ces systèmes dans les températures plus froides des hivers canadiens. Cette performance améliorée par rapport aux thermopompes à air conventionnelles réduit le besoin de sources de chauffage auxiliaires. Les pompes à chaleur géothermiques sont efficaces dans tous les climats.",
+          "mechanicalSystemTitle": "Système ou équipement mécanique",
+          "mechanicalSystemContent": "Un entrepreneur en systèmes mécaniques ou un conseiller en énergie peut vous aider à estimer la rentabilité de l'achat et de l'exploitation d'une thermopompe dans votre région et les économies potentielles que vous pouvez réaliser. Les pompes à chaleur peuvent avoir un coût d'achat plus élevé que les autres systèmes de chauffage en raison du nombre de composants du système. Dans certaines régions et situations, ce coût supplémentaire peut être récupéré dans un délai relativement court grâce à des économies d'énergie importantes. Cependant, dans d'autres régions, les prix d’électricité et de l’énergie thermique peut prolonger cette période. Parlez avec votre conseiller en énergie pour voir si une thermopompe vous convient."
+          ,
+          "engineers": {
+            "services": "Nos Services",
+            "offer": "On peut offrir les services suivants",
+            "service1": {
+              "title": "Récupération de la chaleur et suivi, analyse et optimisation de la consommation d’énergie",
+              "description": "Il y a une grande quantité de chaleur perdue dans les procédés industriels, dans les cheminées des chaudières, des groupes à eau glacée et des séchoirs. Cette chaleur peut être récupérée et réutilisée dans les procédés, le chauffage de bâtiment durant l’hiver et préchauffage des eaux d’appoint des chaudières et des procédés. Le suivi et l’optimisation de la consommation d’énergie peut sauver jusqu’au 15% dans certains cas. ",
+              "readMore": "Lire la suite"
+            },
+            "service2": {
+              "title": "Intégration des procédés industriels et analyse de pincement",
+              "description": "L’intégration des procédés industriels est une approche globale et systématique qui analyse un procédé industriel d’une façon globale et générale, plutôt que de considérer indépendamment chaque équipement ou système énergétique, afin de déterminer les meilleures stratégies pour une utilisation efficace de l’énergie et des ressources. Elle peut être utilisée pour améliorer l’efficacité énergétique et réduire les coûts d’énergie d’une usine, mais aussi pour minimiser les émissions de gaz à effet de serre et la quantité d’eau qu’elle utilise.",
+              "readMore": "Lire la suite"
+            },
+            "service3": {
+              "title": "Audit énergétique et développement des affaires/projets",
+              "description": "La réalisation d’un audit énergétique, outre le fait qu’elle vous permettra de lancer votre programme de gestion de l’énergie, révélera les possibilités d’économies d’énergie importantes de votre organisme.Un audit ",
+              "1":"détermine le lieu, le moment et la manière dont l’énergie est consommée",
+              "2":"vous fournit des renseignements utiles à l’amélioration de votre efficacité énergétique, à la réduction de vos coûts énergétiques et à la réduction de vos émissions de gaz à effet de serre.",
+              "3":"peut contrôler les résultats de vos projets d’efficacité énergétique.",
+              "readMore": "Lire la suite"
+            },
+            "service4": {
+              "title": "Les énergies renouvelables",
+              "description": "L'énergie renouvelable est l'énergie issue de processus naturels qui sont régénérés à un taux égal ou plus rapide que le taux auquel ils sont consommés. Il existe différentes formes d'énergie renouvelable, dérivant directement ou indirectement du soleil, ou de la chaleur générée profondément dans la terre. Elles comprennent l'énergie produite par les ressources solaires, éoliennes, géothermiques, hydroélectriques et océaniques, la biomasse solide, le biogaz et les biocarburants liquides. Par contre, la biomasse est une ressource renouvelable à condition que son taux de consommation ne soit pas supérieur à son taux de régénération",
+              "readMore": "Lire la suite"
+            },
+            "service5": {
+                "title": "Conception des systèmes CVAC-R, vapeur et condensat et plomberie",
+                "description": "Notre équipe a de l’expérience et l’expertise dans la conception et le dimensionnement des systèmes de vapeur et de condensat, de chauffage, conditionnement d’air, climatisation et plomberie pour différents types de bâtiments. Ceci inclut la modélisation et la simulation de la consommation saisonnière et optimale. On peut aussi supporter la conception, la révision et l’implantation des projets clés en mains dans toutes les étapes du projet, soient, conception technique détaillée, achats, gestion du projet, mise en service et mise en marche .",
+                "readMore": "Lire la suite"
+              }
+            },
+              
+        "productt":{
+            "ingeniousEnergyGroup": "Ingenious Energy Group Inc",
+            "designingProducts": "Peut aider à concevoir une large gamme de produits, y compris",
+            "airHandlers": "traitement d'air",
+            "terminalUnits": "Unités terminales",
+            "heatPumps": "Pompes à chaleur",
+            "airCooled": "Condenseur à air, refroidisseur à air",
+            "plateAndFrameHeatExchangers": "Échangeurs de chaleur à plaques et cadres",
+            "dampersAndLouvers": "Registres et louvrs",
+            "heatRecoverySystems": "Systèmes de récupération de chaleur",
+            "externalAndSubmergedCoils": "plaques de chauffage externes et immergées"
+          },
+          "tunkey":
+          {
+            "featuresTitle": "Ingenious Energy Group Inc.",
+            "featuresSubtitle": "Peut aider à l’exécution et au différents étapes des projets clés en mains dans plusieurs domaines, y compris",
+            "energyEfficiencyTitle": "Projets d'efficacité énergétique et des énergies renouvelables",
+            "energyEfficiencyDescription": "Projets d'efficacité énergétique et des énergies renouvelables",
+            "foodProcessingTitle": "Des projets agroalimentaires",
+            "foodProcessingDescription": "Projets agroalimentaires, abattoirs, CVAC et plomberie pour des bâtiments commerciaux, résidentiels, institutionnel et de santé.",
+            "servicesDescription": "Ces services comprennent l'étude préliminaire, l’étude d’ingénierie détaillée, la gestion du projet, la mise en service et la mise en marche des systèmes."
+          },
+          "solorenergy":{
+            "Solar Pumping": "Pompage solaire",
+            "Solar pumping is a good application for farmers and country residential or commercial houses.": "Le pompage solaire est une bonne solution pour les agriculteurs et les petits projets des sites isolés. ",
+            "Solar Systems for Residential": "Systèmes solaires pour résidentiel",
+            "On grid residential solar systems has a rebate from Ontario governments up to $5600.": "Le marché des systèmes solaires résidentiels raccordés au réseau et des sites isolés évolue de plus en plus. Ce marché est supporté par plusieurs subventions dans les différents pays. Ces systèmes bénéficient d'un rabais des gouvernements de l'Ontario jusqu'à 5 600 $",
+            "Solar Systems for Commercial": "Systèmes solaires commerciaux",
+            "Solar systems can be the best cost effective solution for applications where commercial buildings are consuming a lot of electricity.": "Les systèmes solaires peuvent être la meilleure solution rentable pour les applications où les bâtiments commerciaux consomment beaucoup d'électricité.",
+            "Renewable Energy": "Énergie renouvelable",
+            "Solar Energy":"Énergie solaire",
+            "a":"L'énergie renouvelable est une énergie dérivée de processus naturels qui se reconstitue à un rythme égal ou plus rapide que le rythme auquel elle est consommée. L'initiative pour les maisons plus vertes au Canada offre une subvention pour l'installation d'un système solaire photovoltaïque (PV) (comprenant des panneaux et un onduleur) qui convertit directement la lumière du soleil en électricité. Si vous souhaitez acheter des batteries pour stocker l'énergie solaire de votre système PV, une partie du coût peut être éligible à une subvention dans le cadre des subventions de résilience climatique. En savoir plus sur les panneaux solaires pour les maisons .",
+            "Learn More": "En savoir plus",
+            "Eligibility criteria for a grant:": "Critères d'admissibilité aux subventions:",
+            "Online purchases are only eligible if they are ordered from a distributor located in Canada.": "Les achats en ligne ne sont admissibles que s'ils sont commandés auprès d'un distributeur situé au Canada.",
+            "The system must be comprised of one or more PV panels and inverter(s) (if required) certified to CSA Standards.": "Le système doit être composé d'un ou plusieurs panneaux photovoltaïques et onduleur(s) (si nécessaire) certifiés selon les normes CSA.",
+            "The total system peak power capacity must be equal to or greater than 1.0 kW DC.": "La capacité de la puissance crête totale du système doit être égale ou supérieure à 1,0 kWc DC.",
+            "For a grid connected* system, a copy of the letter of approval or permission for interconnection issued by the local electrical or building authority is required.": "Pour les systèmes connectés au réseau, une copie de la lettre d'approbation ou de l'autorisation de branchement délivrée par l'autorité locale en matière d'électricité ou de construction est requise."
+            ,"CSA Standards": "Normes CSA"
+        }
+        ,"Welcome":"Bienvenue chez Ingenious Energy Group Inc.",
+        "expert": "Expert en efficacité énergétique, réduction des émissions de gaz à effet de serre et énergies renouvelables",
+        "product":{
+          "title":"Projets",
+          "subtitle":"Ajouter un nouveau project",
+          "name":"Nom du projet",
+          "message":"Description",
+          "send_message":"Ajouter"
+        },
+        "sectors": {
+          "sectorActivities": "Secteur des activités",
+          "ingeniousEnergyGroup": "Ingenious Energy Group Inc. est une société de services d’ingénierie qui offre des services pour différent secteurs incluent et non limités a:",
+          "industrialSector": "Secteur industriel",
+          "industrialSectorDescription": "Parmi lesquels: les usines de pâte et papier, les usines de produits alimentaires et des boissons, l’industrie lourde, les cimenteries et les usines de fabrication d’argiles.",
+          "commercial": "Secteur Commercial",
+          "commercialDescription": "Des centres commerciaux, des supermarchés, des cours et des théâtres.",
+          "institutional": "Secteur Institutionnel",
+          "institutionalDescription": "Des écoles, des universités et des complexes universitaires.",
+          "healthcare": "Établissement de santé",
+          "healthcareDescription": "Des hôpitaux, des cliniques et des pharmacies.",
+          "solarAndGreenEnergies": "Systèmes solaires et des énergies vertes",
+          "solarAndGreenEnergiesDescription": "Les installations raccordées et sites isoles, pompage solaire, installations pour les immeubles et centres commerciaux."
+        },
+        "projects":{
+          "title":"RÉCUPÉRATION DE CHALEUR ET EFFICACITÉ ÉNERGÉTIQUE",
+          "consulting":"PROJETS DE CONSEIL",
+          "Our":"Nos Projets",
+          "conception":"CONCEPTION CVC ET PLOMBERIE DU BÂTIMENT",
+          "subtitle":"Conception, dimensionnement des équipements et démarrage de projets divers :",  
+          "p1":{
+            "title":"Projet-01 : Usine de pâtes et papiers (QC) – 2018/2021",
+            "description":"Un ingénieur expert de l’équipe d’ingénierie d'Ingenious Energy Group Inc. a agi en tant que chef d'équipe technique et gestionnaire du projet pour le projet clés en mains au complet incluant les étapes de l'étude de faisabilité, d'ingénierie détaillée, de mise en œuvre du projet et de la mise en service des différents systèmes. Le projet consistait à développer et implanter un système de récupération de la chaleur des gaz de la cheminée d'un séchoir Yankee pour produire de l'eau chaude afin de préchauffer l'air d'appoint de l'usine et l'eau de procédés, ce qui a entraîné une économie annuelle de carburant de plus que cinq cent mille ($500 000) et une réduction significative des émissions de gaz à effet de serre pour l'usine. "
+
+          },
+          "p2":{
+            "title":"Projet-02 : Produits laitiers et agroalimentaires (Irlande) – 2018/2021",
+            "description":"Un ingénieur expert de l’équipe d’ingénierie d'Ingenious Energy Group Inc. a agi à titre d'ingénieur d’examen principal pendant toutes les étapes du processus du clés en mains incluant l'étude de faisabilité et l’exécution du projet. Le projet consistait à récupérer la chaleur de la cheminée des chaudières à gaz naturel et des séchoirs pour produire de l'eau chaude afin de préchauffer l'air d'appoint de l'usine, l’eau d’appoint des chaudières et les eaux de procédés, ce qui a entraîné une économie annuelle de carburant de plus de centaines de milliers (environ $650 000) et une réduction remarquable des émissions de gaz à effet de serre pour le client."
+
+          },
+          "p3":{
+            "title":"Projet-03 : Usine de pâtes et papiers (ON) – 2017/2019",
+            "description":"Un ingénieur expert d'Ingenious Energy Group Inc. a agi comme étant le chef de file de l'équipe technique pendant tout le processus clés en mains pour l'étude d’ingénierie préliminaire, l’étude de faisabilité détaillée, l’achat et l’exécution du projet, mise en service et mise en marche. Le projet consistait à récupérer la chaleur des sécheurs de machines à pâte et des gaz de la cheminée de la chaudière de récupération pour produire de l'eau chaude afin de préchauffer l'air d'appoint de l'usine, l’eau d’appoint des chaudières, l’eau des procédés et d’autres utilisateurs dans l’usine. Ceci a entraîné une économie annuelle du cout de carburant de plus de trois (3) millions de dollars canadiens et une réduction significative des émissions de gaz à effet de serre pour le client."
+
+          },
+          "p4":{
+            "title":"Projet-04 : Fabricant de levure (Italie) -2016/2017",
+            "description":"Un ingénieur expert d'Ingenious Energy Group Inc. a été le responsable de l'équipe technique pendant le processus clés en mains au complet. Le projet consistait à récupérer la chaleur de la cheminée d'une turbine à gaz naturel en aval d'un échangeur de chaleur pour production de la vapeur pour produire de l'eau chaude pour préchauffer l'eau d'appoint de la chaudière et l’air d’appoint, ce qui a permis d'économiser annuellement plus de cinq cent mille ($500 000) dollars canadiens en carburant et réduction significative des émissions de gaz à effet de serre pour le client."
+
+          },
+          "p5":{
+            "title":"Projet-05 : Usine de machines à papier tissu (QC) -2013/2015",
+            "description":"Le membre ingénieur et expert d'Ingenious Energy Group Inc. a agi en tant qu'ingénieur de soutien pour l'ingénieur principal dans l’équipe technique pendant le processus clés en mains complet pour la première phase du projet et en tant qu’ingénieur principal pour la deuxième phase du projet (l’expansion). Le projet consistait à récupérer la chaleur du séchoir Yankee de la machine à papier pour produire de l'eau chaude afin de préchauffer l'air d'appoint de l'usine, l'eau d'appoint des chaudières et l'eau de procédés, ce qui a entraîné une économie annuelle de carburant de plus de cinq cent mille dollars canadiens et une réduction significative des émissions de gaz à effet de serre pour le client."
+
+          },
+          "p6":{
+            "title":"Projet-06 : Usine de pâtes et papiers (QC) – 2011/2012",
+            "description":"Un ingénieur expert d'Ingenious Energy Group Inc. a agi comme étant ingénieur de soutien pour l'ingénieur technique principal du projet pendant tout le processus clés en mains. Le projet consistait à récupérer la chaleur du séchoir Yankee de la machine à papier pour produire de l'eau chaude afin de préchauffer l'air d'appoint de l'usine, l'eau d'appoint des chaudières et l'eau de procédés, ce qui a entraîné des économies annuelles de carburant de plus d'un million de dollars canadiens et une réduction remarquable des émissions de gaz à effet de serre pour le client."
+          },
+          "cp1":{
+            "title":" Projet-01 : Audit énergétique - Usine de conversion des cartons, Ontario, Canada",
+            "description":"Réalisation d'un audit énergétique pour une usine de conversion des cartons en Ontario afin d'aider à définir le diagramme de consommation d'énergie de l’existant et à trouver des opportunités d'économies de carburant et d'électricité."
+          },
+          "cp2":{
+            "title":"Projet-02 : Consultant comme étant ingénieur de projet - Projet PASE CLIFF CHP, Ontario, Canada",
+            "description":"Agir en tant qu'ingénieur de projet pour l'entrepreneur général pour la phase de construction du projet PASE CLIFF CHP. L’étendue inclut l’aide à la phase d'approvisionnement, à l'examen des fiches techniques et dessins d'atelier des équipements, à l'examen de la conception, à la sélection des équipements, à la coordination technique et aide à l’achat des équipements."
+          },
+          "cp3":{
+            "title":"Projet-03 : Développement des projets de cogénération et efficacité énergétique, Tunisie",
+            "description":"Participation a la réalisation des études de faisabilité et à la préparation des offres pour des projets clés en mains de cogénération et de tri-génération pour plusieurs clients en Tunisie, notamment des polycliniques médicales, des sociétés pharmaceutiques, des industries automobiles et des centres de collecte du lait. Ces projets ont eu une valeur d’un (1) à trois (3) millions CAD et les économies annuelles sont de 250 000 $ à 500 000 $. "
+          },
+          "cp4":{
+            "title":"Projet-04 : Étude de la Chaîne de Valeur de l’énergie solaire pour les six gouvernorats du sud de la Tunisie – PNUD (Programme des Nations Unies pour le Développement), Tunisie",
+            "description":"Réalisation d'une étude sur la chaîne de valeur de l'énergie solaire pour les six gouvernorats du sud de la Tunisie (Médenine, Gabès, Tataouine, Kébili, Gafsa et Tozeur) en tant que consultant pour Sigma Ingénierie dans le cadre du Programme des Nations Unies pour le développement afin d'enquêter sur les raisons des taux de chômage élevés dans cette région et proposer des actions et des recommandations pour accroître les opportunités, en particulier pour les jeunes et les femmes"
+          }
+          
+
+        },
+        
+        "BUILDING_HVAC_AND_PLUMBING_DESIGN":"CONCEPTION CVC ET PLOMBERIE DU BÂTIMENT",
+          "DESIGN_EQUIPMENT_SIZING_PROJECTS":"Conception, dimensionnement des équipements et démarrage de projets divers : ",
+          "CONSTRUCTION_THEATER_HOUSE_EL_MIDA": "Construction d'une maison de théâtre à El Mida, Nabeul, Tunisie",
+          "CONSTRUCTION_CANTONAL_COURT_GROMBALIA": "Construction du tribunal cantonal de Grombalia, Nabeul, Tunisie",
+          "CONSTRUCTION_THEATER_HOUSE_AOULED_HAFFOUZ": "Construction d'une maison de théâtre à Aouled Haffouz, Sidi Bouzid, Tunisie",
+          "CONSTRUCTION_THEATER_HOUSE_GAAFOUR": "Construction d'une maison de théâtre à Gaafour, Siliana, Tunisie",
+          "CONSTRUCTION_CANTONAL_COURT_NEFZA": "Construction du tribunal cantonal de Nefza, Béja, Tunisie.",
+          "CONSTRUCTION_CANTONAL_COURT_JELMA": "Construction du Tribunal Cantonal de Jelma, Sidi Bouzid, Tunisie.",
+          "CONSTRUCTION_POLYVALENT_CENTER_GABES": "Centre polyvalent de construction à Gabès, Tunisie.",
+          "RETROFIT_EXTENSION_REGIONAL_HOSPITAL_EL_GUETTAR": "Rénovation et extension de l'hôpital régional d'El Guettar, Gafsa, Tunisie.",
+          "CONSTRUCTION_PEDIATRICIAN_SERVICE_OPERATING_ROOM_REGIONAL_HOSPITAL_SENAD": "Construction d'un service de pédiatrie et d'un bloc opératoire pour l'hôpital régional de Senad, Gafsa, Tunisie",
+          "CONSTRUCTION_OPERATING_ROOM_RETROFIT_REGIONAL_HOSPITAL_MDHILA": "Construction d'une salle d'opération et rénovation de l'hôpital régional de M’dhila, Gafsa, Tunisie",
+          "CONSTRUCTION_DRAMA_CENTER_TOZEUR": "Construction d'un centre de théâtre à Tozeur, Tunisie.",
+          "CONSTRUCTION_REGIONAL_SCHOOL_BOARD_OFFICE_TOZEUR": "Construction du siège de la commission scolaire régionale à Tozeur, Tunisie",
+          "CONSTRUCTION_YOUTH_BOARD_OFFICE_SIDI_BOUZID": "Construction du bureau du conseil des jeunes à Sidi Bouzid, Tunisie"
+        ,"partners":{
+          "title":"Nos partenaires",
+          "subtitle":"IEGI est fière de travailler en partenaire avec des societés nationales et internationales !"
+          , "p1": {
+            "description": "ENAQ est un fournisseur de services d'ingénierie basé au Canada. Ils proposent des solutions de haute qualité et rentables pour les clients dans plusieurs domaines tels que l'énergie, l'industrie et le transport. Ils fournissent des services pour différentes phases de projet, y compris la sélection de sites, l'évaluation, la conception d'ingénierie préliminaire (FEED), l'optimisation des opérations, et plus encore."
+          },
+          "p2": {
+            "description": "Ingenium Energy Group est une entreprise de services d'ingénierie spécialisée dans les énergies renouvelables, la conversion d'énergie, la cogénération/trigénération et le HVAC. Leur engagement est de fournir aux clients les meilleures solutions pour réduire les coûts énergétiques, augmenter l'efficacité et optimiser les processus."
+          },
+          "p3": {
+            "description": "TEnerFlow est spécialisé dans la maintenance et la fourniture de pièces de rechange pour les équipements rotatifs des industries pétrolières et gazières et de production d'énergie."
+          }
+        }
+        
+        
+          
+    }
+          
+      
+        
+  
+  

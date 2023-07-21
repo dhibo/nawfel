@@ -1,0 +1,42 @@
+<div >
+
+  <div class="container-fluid bg-dark p-0">
+    <div class="row gx-0 d-none d-lg-flex">
+      <div class="col-lg-7 px-5 text-start">
+        <div class="h-100 d-inline-flex align-items-center me-4">
+          <small class="fa fa-map-marker-alt text-primary me-2"></small>
+          <small> 191 Scout Street, Ottawa, Ontario</small>
+        </div>
+        <div class="h-100 d-inline-flex align-items-center me-4">
+          <small class="far fa-clock text-primary me-2"></small>
+          <small id="hours-of-operation">Mon - Fri : 09.00 AM - 09.00 PM</small>
+        </div>
+        <div class="h-100 d-inline-flex align-items-center me-4">
+          <small class="fa fa-phone-alt text-primary me-2"></small>
+          <small>+(1) 613-716-4434</small>
+        </div>
+      </div>
+      <div class="col-lg-5 px-5 text-end">
+        <div class="h-100 d-inline-flex align-items-center mx-n2">
+          <div class="select-opt" >
+            <select name="language" id="language" (change)="switchLanguage($event)">
+              <option value="default"><i class="fi fi-us"></i> EN</option>
+              <option value="French"><i class="fi fi-fr"></i> FR</option>
+            </select>
+          </div>
+          
+
+          <a class="btn btn-square btn-link rounded-0 border-0 border-end border-secondary" href="https://www.facebook.com/profile.php?id=100070466763788"><i class="fab fa-facebook-f"></i></a>
+          <a class="btn btn-square btn-link rounded-0 border-0 border-end border-secondary" href="https://api.whatsapp.com/send?phone=%2B16137164434&fbclid=IwAR3Kh7CZ6FNrP1csBLDTIbdC2c9iwX3VjwT6Iew52hvJjoQSzQbjgKaMkCM"><i class="fab fa-whatsapp"></i></a>
+          <a class="btn btn-square btn-link rounded-0 border-0 " href="https://www.linkedin.com/in/nawfel-bouzayani-11373a14/"><i class="fab fa-linkedin-in"></i></a>
+
+        </div>
+      </div>
+      
+    </div>
+    </div>
+
+    <app-nav></app-nav>
+    <router-outlet></router-outlet>
+  <app-footer></app-footer>
+<app-back-to-top></app-back-to-top>

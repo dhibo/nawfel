@@ -1,0 +1,78 @@
+<nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top p-0"  #stickyNav>  
+  <a [routerLink]="'/'" class="navbar-brand d-flex align-items-center border-end px-3 px-lg-5">
+    <h4 class="m-0 text-primary">Ingenious Energy Group</h4>
+  </a>
+  <div class="d-lg-none d-flex align-items-center justify-content-center dropdown">
+    
+    <div class="select-opt" style="font-size: x-large;">
+      <select name="language" id="language" (change)="switchLanguage($event)">
+        <option value="default"><i class="fi fi-us"></i> EN</option>
+        <option value="French"><i class="fi fi-fr"></i> FR</option>
+      </select>
+    </div>
+    
+    
+  </div>
+  
+  
+  <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  
+  <div class="collapse navbar-collapse" id="navbarCollapse">
+    <div class="navbar-nav ms-auto justify-content-center text-align-center p-4 p-lg-0">
+      <a [routerLink]="''" class="nav-item nav-link active" >{{ 'navbar.home' | translate }}</a>
+      <a [routerLink]="'/about'" class="nav-item nav-link">{{ 'navbar.about' | translate }}</a>
+      
+      <div class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown">{{ 'navbar.renewable_green_energies' | translate }}</a>
+        <div class="dropdown-menu bg-light m-0">
+          
+            <a class="dropdown-item" [routerLink]="'RenewableAndGreenEnergies/SolorEnergy'" id="solar-energy-submenu" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              {{ 'navbar.solar_energy' | translate }}
+            </a>
+          
+          <a [routerLink]="'RenewableAndGreenEnergies/HeatPumpsAndOtherSolutions'" class="dropdown-item">{{ 'navbar.heat_pumps_and_other_solutions' | translate }}</a>
+
+        </div>
+      </div>
+      <div class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown">{{ 'navbar.project_references' | translate }}</a>
+        <div class="dropdown-menu bg-light m-0">
+          
+            <a class="dropdown-item" [routerLink]="'ProjectsReferences/HeatRecoveryAndEnergyEfficiency'" id="heat-recovery-submenu" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              {{ 'navbar.heat_recovery' | translate }}              </a>
+            
+        
+            <a class="dropdown-item" [routerLink]="'ProjectsReferences/ConsultingProjects'" id="consulting-projects-submenu" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              {{ 'navbar.consulting_projects' | translate }}
+            </a>
+            
+          
+          <a [routerLink]="'ProjectsReferences/BuildingHvacAndPlumbingDesgin'" class="dropdown-item"> {{ 'navbar.building_hvac_and_plumbing_desgin' | translate }}                             </a>
+
+          </div>
+      </div>
+          <div class="nav-item dropdown">
+              <a  class="nav-link dropdown-toggle" data-bs-toggle="dropdown">{{ 'navbar.energy_efficiency' | translate }}</a>
+              <div class="dropdown-menu bg-light m-0">
+                  <a [routerLink]="'/EnergyEfficency/EngineeringService'" class="dropdown-item">{{ 'navbar.engineering_services' | translate }}</a>
+                  <a [routerLink]="'/EnergyEfficency/ProductDesginAndManufacturing'" class="dropdown-item">{{ 'navbar.product_design_and_manufacturing' | translate }}</a>
+                  <a [routerLink]="'/EnergyEfficency/TurnkeyAndEpcProjects'" class="dropdown-item">{{ 'navbar.turnkey_and_epc_projects' | translate }}</a>
+              </div>
+      </div>
+            <a [routerLink]="'/products'" class="nav-item nav-link">products</a>
+            <div class="nav-item dropdown">
+              <a  class="nav-link dropdown-toggle" data-bs-toggle="dropdown"></a>
+              <div class="dropdown-menu bg-light m-0">
+                  <a [routerLink]="'/p1'" class="dropdown-item">E2100</a>
+                  <a [routerLink]="'/p2'" class="dropdown-item">EP66</a>
+                  <a [routerLink]="'/p3'" class="dropdown-item">EM30</a>
+                  <a [routerLink]="'/p4'" class="dropdown-item">E600</a>
+
+              </div>
+            </div>
+  </div>
+          <a [routerLink]="'/contact'" class="btn btn-primary rounded-0 py-4 px-lg-5 d-none d-lg-block"> {{ 'navbar.contact_us' | translate }}</a>
+          </div>
+  </nav>

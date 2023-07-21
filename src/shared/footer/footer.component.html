@@ -1,0 +1,56 @@
+<div class="container-fluid bg-dark text-light footer mt-5 pt-5 wow fadeIn" data-wow-delay="0.1s">
+    <div class="container py-5">
+        <div class="row g-5">
+            <div class="col-lg-3 col-md-6">
+                <h4 class="text-light mb-4">{{ 'footer.ADDRESS' | translate }}</h4>
+                <p class="mb-2" style="color: #9B9B9B;"><i class="fa fa-map-marker-alt me-3"></i>191 Scout Street, Ottawa, Ontario</p>
+                <p class="mb-2"  style="color: #9B9B9B;"><i class="fa fa-phone-alt me-3"></i>+(1) 613-716-4434</p>
+                <p class="mb-2"  style="color: #9B9B9B;"><i class="fa fa-envelope me-3"></i>info@ingeniousenergy.ca</p>
+                <div class="d-flex pt-2">
+                    <a class="btn btn-outline-light btn-social" href="https://www.facebook.com/profile.php?id=100070466763788'"><i class="fab fa-facebook-f"></i></a>
+                    <a class="btn btn-outline-light btn-social" href="https://api.whatsapp.com/send?phone=%2B16137164434&fbclid=IwAR3Kh7CZ6FNrP1csBLDTIbdC2c9iwX3VjwT6Iew52hvJjoQSzQbjgKaMkCM"><i class="fab fa-whatsapp"></i></a>
+                    <a class="btn btn-outline-light btn-social" href="https://www.linkedin.com/in/nawfel-bouzayani-11373a14/"><i class="fab fa-linkedin-in"></i></a>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <h4 class="text-light mb-4">{{ 'footer.partner' | translate }}</h4>
+                <p class="mb-2" style="color: #9B9B9B;"><i class="fa fa-map-marker-alt me-3"></i>Rue de Malatrex 38 1201 GENEVE Suisse</p>
+                <p class="mb-2"  style="color: #9B9B9B;"><i class="fa fa-phone-alt me-3"></i>+(41) 78 304 85 66</p>
+                <p class="mb-2"  style="color: #9B9B9B;"><i class="fa fa-envelope me-3"></i>Contact@tenerflow.com</p>
+                <div class="d-flex pt-2">
+                    <a class="btn btn-outline-light btn-social" href="https://www.linkedin.com/company/tenerflow/"><i class="fab fa-linkedin-in"></i></a>
+                </div>
+            </div>
+            
+            <div class="col-lg-3 col-md-6">
+                <h4 class="text-light mb-4">{{ 'footer.QUICK_LINKS' | translate }}</h4>                
+                <a class="btn btn-link" [routerLink]="'projects/'">{{ 'footer.PROJECT_REFERENCES' | translate }}</a>
+                <a class="btn btn-link" [routerLink]="'about'">{{ 'footer.ABOUT_US' | translate }}</a>
+                <a class="btn btn-link" [routerLink]="'contact'">{{ 'footer.CONTACT_US' | translate }}</a>
+                <a class="btn btn-link" [routerLink]="'RenewableAndGreenEnergies'">{{ 'footer.RENEWABLE_AND_GREEN_ENERGY' | translate }}</a>
+                <a class="btn btn-link" [routerLink]="''">{{ 'footer.HOME' | translate }}</a>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <h4 class="text-light mb-4">{{ 'footer.ENERGY_EFFICIENCY' | translate }}</h4>
+                <a class="btn btn-link" [routerLink]="'EnergyEfficency/EngineeringService'">{{ 'footer.ENGINEERING_SERVICES' | translate }}</a>
+                <a class="btn btn-link" [routerLink]="'EnergyEfficency/ProductDesginAndManufacturing'">{{ 'footer.PRODUCT_DESIGN_AND_MANUFACTURING' | translate }}</a>
+                <a class="btn btn-link" [routerLink]="'EnergyEfficency/TurnkeyAndEpcProjects'">{{ 'footer.TURNKEY_AND_EPC_PROJECTS' | translate }}</a>
+                <h4 class="text-light mt-4 mb-4">{{'footer.CONTACT_US_TITLE' | translate}}</h4>
+                <p  style="color: #9B9B9B;">{{'footer.CONTACT_US_DESCRIPTION' | translate}}</p>
+                <div class="position-relative mx-auto" style="max-width: 400px;">
+                    <input class="form-control border-0 w-100 py-3 ps-4 pe-5" type="text" placeholder="Enter text Here ">
+                    <a type="button" [routerLink]="'contact'" class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2" >{{'footer.CONTACT_US_SEND_BUTTON' | translate}}</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="copyright">
+            <div class="row">
+                <div class="col-md-12 t mb-3 mb-md-0" style="text-align: center;">
+                    &copy; Copyright Ingenious Energy Group Inc.
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

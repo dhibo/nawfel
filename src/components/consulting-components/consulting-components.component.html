@@ -1,0 +1,223 @@
+
+
+<div class="container justify-content-center">
+    <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
+        <h1 class="mb-4">{{'projects.consulting' |translate }}</h1>
+     </div>
+    <div class="row g-4 justify-content-center wow fadeInUp" data-wow-delay="0.5s">
+    <div class="col-lg-4 col-md-6  portfolio-item ">
+        <div class="portfolio-img rounded just overflow-hidden">
+            <img width="500" class="img-fuild"  height="300" src="./assets/img/cons1.jpg" alt="">
+            <div class="portfolio-btn">
+                <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="./assets/img/cons1.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
+                <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1"  data-bs-toggle="modal"  data-bs-target="#videoModal1" ><i class="fa fa-link"></i></a>
+
+            </div>
+        </div>
+        <div class="pt-3">
+            <p class="text-primary mb-0"> {{'projects.cp1.title' | translate}}
+            </p>
+            <hr class="text-primary w-25 my-2">
+            <p class="lh-base">{{'projects.cp1.description' | translate}}
+            </p>
+        </div>
+    </div>
+    <div class="col-lg-4 col-md-6  portfolio-item ">
+        <div class="portfolio-img rounded just overflow-hidden">
+            <img width="500" class="img-fuild"  height="300" src="./assets/img/cons2.jpg" alt="">
+            <div class="portfolio-btn">
+                <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="./assets/img/cons2.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
+                <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1"  data-bs-toggle="modal" data-src="https://www.youtube.com/embed/ly36kn0ug4k?controls=0" data-bs-target="#videoModal2" ><i class="fa fa-link"></i></a>
+
+            </div>
+        </div>
+        <div class="pt-3">
+            <p class="text-primary mb-0"> {{'projects.cp2.title' | translate}}
+            </p>
+            <hr class="text-primary w-25 my-2">
+            <p class="lh-base">{{'projects.cp2.description' | translate}}
+            </p>
+        </div>
+    </div>
+    <div class="col-lg-4 col-md-6  portfolio-item ">
+        <div class="portfolio-img rounded just overflow-hidden">
+            <img width="500" class="img-fuild"  height="300" src="./assets/img/cons51.jpg" alt="">
+            <div class="portfolio-btn">
+                <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="./assets/img/cons51.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
+                <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" data-bs-toggle="modal" data-src="https://www.youtube.com/embed/ly36kn0ug4k?controls=0" data-bs-target="#videoModal1" ><i class="fa fa-link"></i></a>
+
+            </div>
+        </div>
+        <div class="pt-3">
+            <p class="text-primary mb-0"> {{'projects.cp3.title'|translate}}
+            </p>
+            <hr class="text-primary w-25 my-2">
+            <p class="lh-base">{{'projects.cp3.description'|translate}}
+            </p>
+        </div>
+        
+    </div>
+</div>
+<div class="row g-4 justify-content-center wow fadeInUp" data-wow-delay="0.5s">
+    <div class="col-lg-4 col-md-6  portfolio-item ">
+        <div class="portfolio-img rounded just overflow-hidden">
+            <img width="500" class="img-fuild"  height="300" src="./assets/img/cons3.jpg" alt="">
+            <div class="portfolio-btn">
+                <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="./assets/img/cons1.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
+                <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" data-bs-toggle="modal" data-src="https://www.youtube.com/embed/ly36kn0ug4k?controls=0" data-bs-target="#videoModal3" ><i class="fa fa-link"></i></a>
+
+            </div>
+        </div>
+        <div class="pt-3">
+            <p class="text-primary mb-0"> {{ 'projects.cp4.title' | translate}}
+            </p>
+            <hr class="text-primary w-25 my-2">
+            <p class="lh-base">{{ 'projects.cp4.description' | translate}}
+            </p>
+        </div>
+    </div>
+</div>
+</div>
+<!-- Video Modal Start -->
+<div class="modal modal-video fade" id="videoModal3" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content rounded-0">
+        <div class="modal-header">
+          <h4 class="modal-title" id="exampleModalLabel">{{ 'projects.cp3.title' | translate}}</h4>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <!-- 16:9 aspect ratio -->
+          <div class="ratio ratio-16x9">
+            <div class="container-fluid p-0 pb-5">
+                <div id="carouselExampleControls" class="carousel slide text-center carousel-dark" data-ride="carousel">
+                  <div class="carousel-inner">
+                    <div class="carousel-item" *ngFor="let item of carouselItems3; let i = index" [ngClass]="{ active: currentSlide3 === i }">
+                      <img class="img-fluid" [src]="item.imageSrc" alt="">
+                    </div>
+                  </div>
+                  <button class="carousel-control-prev" type="button" data-target="#carouselExampleControls" data-slide="prev" (click)="onPreviousClick3()">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                  </button>
+                  <button class="carousel-control-next" type="button" data-target="#carouselExampleControls" data-slide="next" (click)="onNextClick3()">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                  </button>
+                </div>
+              </div>
+3              
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Video Modal End -->
+  
+  <!-- Video Modal End -->
+  <div class="modal modal-video fade" id="videoModal2" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content rounded-0">
+        <div class="modal-header">
+          <h4 class="modal-title" id="exampleModalLabel">{{ 'projects.cp2.title'|translate}}</h4>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <!-- 16:9 aspect ratio -->
+          <div class="ratio ratio-16x9">
+            <!-- Simple Carousel Component Start -->
+            <div class="container-fluid p-0 pb-5">
+                <div id="carouselExampleControls" class="carousel slide text-center carousel-dark" data-ride="carousel">
+                  <div class="carousel-inner">
+                    <div class="carousel-item" *ngFor="let item of carouselItems2; let i = index" [ngClass]="{ active: currentSlide2 === i }">
+                      <img class="img-fluid" [src]="item.imageSrc" alt="">
+                    </div>
+                  </div>
+                  <button class="carousel-control-prev" type="button" data-target="#carouselExampleControls" data-slide="prev" (click)="onPreviousClick2()">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                  </button>
+                  <button class="carousel-control-next" type="button" data-target="#carouselExampleControls" data-slide="next" (click)="onNextClick2()">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                  </button>
+                </div>
+              </div>
+                          <!-- Simple Carousel Component End -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Video Modal End -->
+  <!-- Video Modal Start -->
+<div class="modal modal-video fade" id="videoModal1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content rounded-0">
+        <div class="modal-header">
+          <h4 class="modal-title" id="exampleModalLabel">{{'projects.cp1.title'|translate}}</h4>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <!-- 16:9 aspect ratio -->
+          <div class="ratio ratio-16x9">
+            <div class="container-fluid p-0 pb-5">
+                <div id="carouselExampleControls" class="carousel slide text-center carousel-dark" data-ride="carousel">
+                  <div class="carousel-inner">
+                    <div class="carousel-item" *ngFor="let item of carouselItems; let i = index" [ngClass]="{ active: currentSlide === i }">
+                      <img class="img-fluid" [src]="item.imageSrc" alt="">
+                    </div>
+                  </div>
+                  <button class="carousel-control-prev" type="button" data-target="#carouselExampleControls" data-slide="prev" (click)="onPreviousClick()">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                  </button>
+                  <button class="carousel-control-next" type="button" data-target="#carouselExampleControls" data-slide="next" (click)="onNextClick()">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                  </button>
+                </div>
+              </div>
+              
+          </div>
+        </div>
+      </div>
+    </div>
+  <!-- Video Modal Start -->
+<div class="modal modal-video fade" id="videoModal4" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content rounded-0">
+        <div class="modal-header">
+          <h4 class="modal-title" id="exampleModalLabel">{{'projects.cp4.title'|translate}}</h4>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <!-- 16:9 aspect ratio -->
+          <div class="ratio ratio-16x9">
+            <div class="container-fluid p-0 pb-5">
+                <div id="carouselExampleControls" class="carousel slide text-center carousel-dark" data-ride="carousel">
+                  <div class="carousel-inner">
+                    <div class="carousel-item" *ngFor="let item of carouselItems4; let i = index" [ngClass]="{ active: currentSlide4 === i }">
+                      <img class="img-fluid" [src]="item.imageSrc" alt="">
+                    </div>
+                  </div>
+                  <button class="carousel-control-prev" type="button" data-target="#carouselExampleControls" data-slide="prev" (click)="onPreviousClick4()">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                  </button>
+                  <button class="carousel-control-next" type="button" data-target="#carouselExampleControls" data-slide="next" (click)="onNextClick4()">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                  </button>
+                </div>
+              </div>
+              
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Video Modal End -->
+  
+  
+

@@ -1,0 +1,44 @@
+<div class="container-fluid bg-light overflow-hidden px-lg-0" style="margin: 6rem 0;">
+  <div class="container product px-lg-0">
+    <div class="row g-0 mx-lg-0">
+      <div class="col-lg-6 contact-text py-5 wow fadeIn" data-wow-delay="0.5s">
+        <div class="p-lg-5 ps-lg-0">
+          <h6 class="text-primary">{{ 'product.title' | translate }}</h6>
+          <h1 class="mb-4">{{ 'product.subtitle' | translate }}</h1>
+          <p class="mb-4"></p>
+          <form action="./assets/php/product.php" method="POST">
+            <div class="row g-3">
+              <div id="thankyou_message" style="display:none" class="thankyou_message">
+                <p class="text-primary">{{ 'product.thankyou_message.text' | translate }}</p>
+              </div>
+              <div class="col-md-6">
+                <div class="form-floating">
+                  <input type="text" formControlName="name" class="form-control" id="name" name="name"
+                    placeholder="{{ 'product.name' | translate }}">
+                  <label for="name">{{ 'product.name' | translate }}</label>
+                </div>
+              </div>
+              <div class="col-12">
+                <div class="form-floating">
+                  <textarea class="form-control" formControlName="message"
+                    placeholder="{{ 'product.message' | translate }}" name="message" id="message"
+                    style="height: 100px"></textarea>
+                  <label for="message">{{ 'product.message' | translate }}</label>
+                </div>
+              </div>
+              <div class="col-12">
+                <button class="btn btn-primary rounded-pill py-3 px-5" name="submit" type="submit"
+                  (onclick)="send()">{{ 'product.send_message' | translate }}</button>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+      <div class="col-lg-6 pe-lg-0 d-none d-lg-block">
+        <div class="h-100">
+          <img src="./assets/img/addproduct.png" height="700px" alt="">
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

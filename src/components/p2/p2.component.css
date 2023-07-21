@@ -1,0 +1,25 @@
+.ps_ov_header_sm {
+   
+    font-weight: 300;
+    color: #818282;
+    font-size: 18px;
+}
+
+@media (max-width: 992px) {
+    /* Hide the image for screen sizes up to 992px */
+    .overview_img {
+        display: none;
+    }
+}
+
+@media (min-width: 992px) {
+    /* Hide the image for screen sizes up to 992px */
+    .mob_img {
+        display: none;
+    }
+}
+.btn_container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px; /* Adjust the margin value to your desired spacing */
+}
